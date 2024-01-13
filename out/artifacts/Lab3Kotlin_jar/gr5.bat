@@ -1,0 +1,1 @@
+java -jar Lab3Kotlin.jar issue-priorities issues.apache.org FLINK priorities
